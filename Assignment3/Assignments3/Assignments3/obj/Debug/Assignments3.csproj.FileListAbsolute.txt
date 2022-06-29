@@ -1,0 +1,16 @@
+D:\ASSIGNMENTS_\Assignments3\Assignments3\bin\Debug\Assignments3.exe.config
+D:\ASSIGNMENTS_\Assignments3\Assignments3\bin\Debug\Assignments3.exe
+D:\ASSIGNMENTS_\Assignments3\Assignments3\bin\Debug\Assignments3.pdb
+D:\ASSIGNMENTS_\Assignments3\Assignments3\obj\Debug\Assignments3.csproj.AssemblyReference.cache
+D:\ASSIGNMENTS_\Assignments3\Assignments3\obj\Debug\Assignments3.csproj.SuggestedBindingRedirects.cache
+D:\ASSIGNMENTS_\Assignments3\Assignments3\obj\Debug\Assignments3.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENTS_\Assignments3\Assignments3\obj\Debug\Assignments3.exe
+D:\ASSIGNMENTS_\Assignments3\Assignments3\obj\Debug\Assignments3.pdb
+D:\Assignment3\Assignments3\Assignments3\obj\Debug\Assignments3.csproj.AssemblyReference.cache
+D:\Assignment3\Assignments3\Assignments3\obj\Debug\Assignments3.csproj.SuggestedBindingRedirects.cache
+D:\Assignment3\Assignments3\Assignments3\obj\Debug\Assignments3.csproj.CoreCompileInputs.cache
+D:\Assignment3\Assignments3\Assignments3\obj\Debug\Assignments3.exe
+D:\Assignment3\Assignments3\Assignments3\obj\Debug\Assignments3.pdb
+D:\Assignment3\Assignments3\Assignments3\bin\Debug\Assignments3.exe.config
+D:\Assignment3\Assignments3\Assignments3\bin\Debug\Assignments3.exe
+D:\Assignment3\Assignments3\Assignments3\bin\Debug\Assignments3.pdb
