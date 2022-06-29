@@ -1,0 +1,8 @@
+D:\Conditions\Condition4\Condition4\bin\Debug\Condition4.exe.config
+D:\Conditions\Condition4\Condition4\bin\Debug\Condition4.exe
+D:\Conditions\Condition4\Condition4\bin\Debug\Condition4.pdb
+D:\Conditions\Condition4\Condition4\obj\Debug\Condition4.csproj.AssemblyReference.cache
+D:\Conditions\Condition4\Condition4\obj\Debug\Condition4.csproj.SuggestedBindingRedirects.cache
+D:\Conditions\Condition4\Condition4\obj\Debug\Condition4.csproj.CoreCompileInputs.cache
+D:\Conditions\Condition4\Condition4\obj\Debug\Condition4.exe
+D:\Conditions\Condition4\Condition4\obj\Debug\Condition4.pdb

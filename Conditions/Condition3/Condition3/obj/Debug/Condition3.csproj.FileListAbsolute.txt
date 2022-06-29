@@ -1,0 +1,8 @@
+D:\Conditions\Condition3\Condition3\bin\Debug\Condition3.exe.config
+D:\Conditions\Condition3\Condition3\bin\Debug\Condition3.exe
+D:\Conditions\Condition3\Condition3\bin\Debug\Condition3.pdb
+D:\Conditions\Condition3\Condition3\obj\Debug\Condition3.csproj.AssemblyReference.cache
+D:\Conditions\Condition3\Condition3\obj\Debug\Condition3.csproj.SuggestedBindingRedirects.cache
+D:\Conditions\Condition3\Condition3\obj\Debug\Condition3.csproj.CoreCompileInputs.cache
+D:\Conditions\Condition3\Condition3\obj\Debug\Condition3.exe
+D:\Conditions\Condition3\Condition3\obj\Debug\Condition3.pdb
