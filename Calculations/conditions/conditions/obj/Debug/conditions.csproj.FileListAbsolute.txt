@@ -1,0 +1,8 @@
+D:\Calculations\conditions\conditions\bin\Debug\conditions.exe.config
+D:\Calculations\conditions\conditions\bin\Debug\conditions.exe
+D:\Calculations\conditions\conditions\bin\Debug\conditions.pdb
+D:\Calculations\conditions\conditions\obj\Debug\conditions.csproj.AssemblyReference.cache
+D:\Calculations\conditions\conditions\obj\Debug\conditions.csproj.SuggestedBindingRedirects.cache
+D:\Calculations\conditions\conditions\obj\Debug\conditions.csproj.CoreCompileInputs.cache
+D:\Calculations\conditions\conditions\obj\Debug\conditions.exe
+D:\Calculations\conditions\conditions\obj\Debug\conditions.pdb

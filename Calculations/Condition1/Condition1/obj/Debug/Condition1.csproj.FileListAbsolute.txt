@@ -1,0 +1,3 @@
+D:\Calculations\Condition1\Condition1\obj\Debug\Condition1.csproj.AssemblyReference.cache
+D:\Calculations\Condition1\Condition1\obj\Debug\Condition1.csproj.SuggestedBindingRedirects.cache
+D:\Calculations\Condition1\Condition1\obj\Debug\Condition1.csproj.CoreCompileInputs.cache
