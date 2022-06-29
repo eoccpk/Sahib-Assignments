@@ -1,0 +1,8 @@
+D:\Functions\raff\raff\bin\Debug\raff.exe.config
+D:\Functions\raff\raff\bin\Debug\raff.exe
+D:\Functions\raff\raff\bin\Debug\raff.pdb
+D:\Functions\raff\raff\obj\Debug\raff.csproj.AssemblyReference.cache
+D:\Functions\raff\raff\obj\Debug\raff.csproj.SuggestedBindingRedirects.cache
+D:\Functions\raff\raff\obj\Debug\raff.csproj.CoreCompileInputs.cache
+D:\Functions\raff\raff\obj\Debug\raff.exe
+D:\Functions\raff\raff\obj\Debug\raff.pdb
