@@ -1,0 +1,8 @@
+D:\ArraysCollections\ArraysCollections\ArraysCollections\obj\Debug\ArraysCollections.csproj.AssemblyReference.cache
+D:\ArraysCollections\ArraysCollections\ArraysCollections\obj\Debug\ArraysCollections.csproj.SuggestedBindingRedirects.cache
+D:\ArraysCollections\ArraysCollections\ArraysCollections\obj\Debug\ArraysCollections.csproj.CoreCompileInputs.cache
+D:\ArraysCollections\ArraysCollections\ArraysCollections\bin\Debug\ArraysCollections.exe.config
+D:\ArraysCollections\ArraysCollections\ArraysCollections\bin\Debug\ArraysCollections.exe
+D:\ArraysCollections\ArraysCollections\ArraysCollections\bin\Debug\ArraysCollections.pdb
+D:\ArraysCollections\ArraysCollections\ArraysCollections\obj\Debug\ArraysCollections.exe
+D:\ArraysCollections\ArraysCollections\ArraysCollections\obj\Debug\ArraysCollections.pdb
