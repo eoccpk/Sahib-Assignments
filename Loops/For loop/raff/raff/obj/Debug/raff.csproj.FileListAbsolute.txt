@@ -1,0 +1,8 @@
+D:\Loops\For loop\raff\raff\bin\Debug\raff.exe.config
+D:\Loops\For loop\raff\raff\bin\Debug\raff.exe
+D:\Loops\For loop\raff\raff\bin\Debug\raff.pdb
+D:\Loops\For loop\raff\raff\obj\Debug\raff.csproj.AssemblyReference.cache
+D:\Loops\For loop\raff\raff\obj\Debug\raff.csproj.SuggestedBindingRedirects.cache
+D:\Loops\For loop\raff\raff\obj\Debug\raff.csproj.CoreCompileInputs.cache
+D:\Loops\For loop\raff\raff\obj\Debug\raff.exe
+D:\Loops\For loop\raff\raff\obj\Debug\raff.pdb
