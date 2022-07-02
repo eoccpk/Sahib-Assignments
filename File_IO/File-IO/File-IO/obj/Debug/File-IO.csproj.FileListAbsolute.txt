@@ -1,0 +1,8 @@
+D:\File_IO\File-IO\File-IO\bin\Debug\File-IO.exe.config
+D:\File_IO\File-IO\File-IO\bin\Debug\File-IO.exe
+D:\File_IO\File-IO\File-IO\bin\Debug\File-IO.pdb
+D:\File_IO\File-IO\File-IO\obj\Debug\File-IO.csproj.AssemblyReference.cache
+D:\File_IO\File-IO\File-IO\obj\Debug\File-IO.csproj.SuggestedBindingRedirects.cache
+D:\File_IO\File-IO\File-IO\obj\Debug\File-IO.csproj.CoreCompileInputs.cache
+D:\File_IO\File-IO\File-IO\obj\Debug\File-IO.exe
+D:\File_IO\File-IO\File-IO\obj\Debug\File-IO.pdb
